@@ -115,7 +115,7 @@ const MENU_DATA = {
           en: "Alpaca meat in cabanita corn chicha sauce accompanied by white rice, sweet potato, and sarsa criolla.",
           fr: "Viande d'alpaga en sauce chicha de maïs cabanita accompagnée de riz blanc, patate douce et sarsa criolla."
         },
-        precio: 27.00,
+        precio: 30.00,
         imagen: "alpaca_salsa_chicha.jpg"
       }
     ]
