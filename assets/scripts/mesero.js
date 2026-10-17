@@ -607,11 +607,11 @@ const MENU_DATA = {
       {
         id: "pie-sancayo",
         nombre: {
-          es: "Pie de sancayo",
-          en: "Sancayo pie",
-          fr: "Tarte au sancayo"
+          es: "Cheesecake de sancayo",
+          en: "Sancayo Cheesecake",
+          fr: "Cheesecake au sancayo"
         },
-        precio: 8.00,
+        precio: 12.00,
         imagen: "pie_sancayo.jpg"
       },
       {
