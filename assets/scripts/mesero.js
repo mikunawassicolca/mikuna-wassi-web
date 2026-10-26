@@ -18,7 +18,7 @@ const MENU_DATA = {
           en: "Traditional Andean soup made from aromatic corn and local spices.",
           fr: "Soupe andine traditionnelle à base de maïs aromatique et d'épices locales."
         },
-        precio: 20.00,
+        precio: 22.00,
         imagen: "sara_api.jpg",
       },
       {
@@ -33,7 +33,7 @@ const MENU_DATA = {
           en: "Traditional chicken soup prepared with noodles, selected vegetables, and house spices.",
           fr: "Soupe au poulet traditionnelle préparée avec des nouilles, des légumes sélectionnés et des épices de la maison."
         },
-        precio: 22.00,
+        precio: 25.00,
         imagen: "sopa_criolla_pollo.jpg"
       },
       {
@@ -48,7 +48,7 @@ const MENU_DATA = {
           en: "Traditional soup prepared with select alpaca loin, noodles, and local spices.",
           fr: "Soupe traditionnelle préparée con filet d'alpaga sélectionné, nouilles et épices locales."
         },
-        precio: 25.00,
+        precio: 28.00,
         imagen: "sopa_criolla_alpaca.jpg"
       }
     ]
@@ -70,7 +70,7 @@ const MENU_DATA = {
           en: "Rice accompanied by egg omelet and sautéed vegetables in oriental sauce.",
           fr: "Riz accompagné d'une omelette aux œufs et de légumes sautés sauce orientale."
         },
-        precio: 25.00,
+        precio: 28.00,
         imagen: "arroz_oriental.jpg"
       },
       {
@@ -85,7 +85,7 @@ const MENU_DATA = {
           en: "Squash puree with peruanita potato, milk, local cheese, nutmeg, valley vegetable salad, and a side of white rice.",
           fr: "Purée de potiron avec pomme de terre peruanita, lait, fromage local, noix de muscade, salade de légumes de la vallée et riz blanc."
         },
-        precio: 27.00,
+        precio: 30.00,
         imagen: "pure_campesino_avocado.jpg"
       },
       {
@@ -100,7 +100,7 @@ const MENU_DATA = {
           en: "Pot-roasted chicken marinated in aji panca and mustard, served with a fresh vegetable and valley avocado salad.",
           fr: "Morceau de poulet mariné au piment panca et moutarde cuit à la casserole, accompagné d'une salade fraîche de légumes et d'avocat de la vallée."
         },
-        precio: 25.00,
+        precio: 30.00,
         imagen: "pollo_olla_ensalada_avocado.jpg"
       },
       {
@@ -115,7 +115,7 @@ const MENU_DATA = {
           en: "Alpaca meat in cabanita corn chicha sauce accompanied by white rice, sweet potato, and sarsa criolla.",
           fr: "Viande d'alpaga en sauce chicha de maïs cabanita accompagnée de riz blanc, patate douce et sarsa criolla."
         },
-        precio: 30.00,
+        precio: 33.00,
         imagen: "alpaca_salsa_chicha.jpg"
       }
     ]
@@ -137,7 +137,7 @@ const MENU_DATA = {
           en: "Chicken fillet served with french fries, vegetables, white rice, and sauces.",
           fr: "Filet de poulet accompagné de frites, légumes, riz blanc et sauces."
         },
-        precio: 35.00,
+        precio: 38.00,
         imagen: "filete_pollo_plancha.jpg"
       },
       {
@@ -152,7 +152,7 @@ const MENU_DATA = {
           en: "Whole trout fillet grilled on the plate served with french fries, vegetables, white rice, chimichurri, and hot sauce.",
           fr: "Filet de truite entière cuit à la plancha accompagné de frites, légumes, riz blanc, chimichurri et sauce piquante."
         },
-        precio: 35.00,
+        precio: 38.00,
         imagen: "trucha_parrilla.jpg"
       },
       {
@@ -167,7 +167,7 @@ const MENU_DATA = {
           en: "Grilled pork chop served with french fries, vegetables, rice, chimichurri, and hot sauce.",
           fr: "Côtelette de porc grillée accompagnée de frites, légumes, riz, chimichurri et sauce piquante."
         },
-        precio: 38.00,
+        precio: 40.00,
         imagen: "chuleta_cerdo_parrilla.jpg"
       },
       {
@@ -182,7 +182,7 @@ const MENU_DATA = {
           en: "Grilled beef steak served with french fries, vegetables, rice, chimichurri, and hot sauce.",
           fr: "Steak de bœuf grillé accompagné de frites, légumes, riz, chimichurri et sauce piquante."
         },
-        precio: 38.00,
+        precio: 40.00,
         imagen: "churrasco_res_plancha.jpg"
       },
       {
@@ -197,7 +197,7 @@ const MENU_DATA = {
           en: "Fine alpaca loin sautéed with onion, tomato wedges, chili peppers, cilantro, garlic, ginger, and sauces, served with french fries, a side of white rice, creams, and hot sauce.",
           fr: "Filet mignon d'alpaga sauté aux oignons, tomates en quartiers, piments, coriandre, ail, gingembre et sauces, accompagné de frites, d'une portion de riz blanc, de crèmes et de sauce piquante."
         },
-        precio: 42.00,
+        precio: 45.00,
         imagen: "lomo_saltado_alpaca.jpg"
       },
       {
@@ -212,7 +212,7 @@ const MENU_DATA = {
           en: "Grilled fine alpaca loin fillet served with french fries, vegetables, a side of white rice, chimichurri, and hot sauce.",
           fr: "Filet de filet mignon d'alpaga grillé accompagné de frites, légumes, une portion de riz blanc, chimichurri et sauce piquante."
         },
-        precio: 45.00,
+        precio: 48.00,
         imagen: "lomo_fino_alpaca_grill.jpg"
       }
     ]
@@ -229,7 +229,7 @@ const MENU_DATA = {
           en: "Sancayo sour",
           fr: "Sancayo sour"
         },
-        precio: 18.00,
+        precio: 20.00,
         imagen: "sancayo_sour.jpg"
       },
       {
@@ -239,7 +239,7 @@ const MENU_DATA = {
           en: "Passion fruit pisco sour",
           fr: "Pisco sour au fruit de la passion"
         },
-        precio: 18.00,
+        precio: 20.00,
         imagen: "pisco_sour_maracuya.jpg"
       },
       {
@@ -249,7 +249,7 @@ const MENU_DATA = {
           en: "Piña colada",
           fr: "Piña colada"
         },
-        precio: 22.00,
+        precio: 25.00,
         imagen: "pina_colada.jpg"
       }
     ]
@@ -271,7 +271,7 @@ const MENU_DATA = {
           en: "Wok-sautéed rice with selected seasonal vegetables and egg omelet.",
           fr: "Riz sauté au wok avec des légumes de saison sélectionnés et une omelette aux œufs."
         },
-        precio: 25.00,
+        precio: 28.00,
         imagen: "arroz_chaufa_oriental.jpg"
       },
       {
@@ -286,7 +286,7 @@ const MENU_DATA = {
           en: "Spaghetti pasta sautéed with a selection of fresh vegetables and aromatic spices.",
           fr: "Pâtes spaghetti sautées avec une sélection de légumes frais et d'épices aromatiques."
         },
-        precio: 25.00,
+        precio: 28.00,
         imagen: "spagetti_salteado_vegetales.jpg"
       },
       {
@@ -301,7 +301,7 @@ const MENU_DATA = {
           en: "Homemade chickpea stew seasoned with local Andean spices.",
           fr: "Ragoût de pois chiches fait maison assaisonné d'épices andines locales."
         },
-        precio: 23.00,
+        precio: 26.00,
         imagen: "guiso_garbanzos.jpg"
       },
       {
@@ -316,7 +316,7 @@ const MENU_DATA = {
           en: "Portion of traditional house beans served with a perfectly cooked fried egg.",
           fr: "Portion de haricots traditionnels de la maison servie avec un œuf au plat."
         },
-        precio: 25.00,
+        precio: 28.00,
         imagen: "frejoles_huevo_frito.jpg"
       },
       {
@@ -331,7 +331,7 @@ const MENU_DATA = {
           en: "Smooth puree made from local lima beans accompanied by a juicy vegetable sauté.",
           fr: "Purée douce à base de haricots de Lima locaux accompagnée d'un sauté de légumes juteux."
         },
-        precio: 27.00,
+        precio: 30.00,
         imagen: "pure_pallar_saltado.jpg"
       },
       {
@@ -346,7 +346,7 @@ const MENU_DATA = {
           en: "Traditional Andean soup made from aromatic corn and local spices.",
           fr: "Soupe andine traditionnelle à base de maïs aromatique et d'épices locales."
         },
-        precio: 20.00,
+        precio: 22.00,
         imagen: "sara_api.jpg"
       }
     ]
@@ -363,7 +363,7 @@ const MENU_DATA = {
           en: "Egg Sandwich",
           fr: "Sandwich aux œufs"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "huevo_sandwich.jpg"
       },
       {
@@ -373,7 +373,7 @@ const MENU_DATA = {
           en: "Avocado Sandwich",
           fr: "Sandwich à l'avocat"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "avocado_sandwich.jpg"
       },
       {
@@ -383,7 +383,7 @@ const MENU_DATA = {
           en: "Cheese Sandwich",
           fr: "Sandwich au fromage"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "queso_sandwich.jpg"
       },
       {
@@ -393,7 +393,7 @@ const MENU_DATA = {
           en: "Triple Sandwich",
           fr: "Sandwich Triple"
         },
-        precio: 18.00,
+        precio: 20.00,
         imagen: "sandwich_triple.jpg"
       },
       {
@@ -403,7 +403,7 @@ const MENU_DATA = {
           en: "Country Bread Sandwich",
           fr: "Sandwich au pain paysan"
         },
-        precio: 20.00,
+        precio: 22.00,
         imagen: "pan_campesino.jpg"
       },
       {
@@ -413,7 +413,7 @@ const MENU_DATA = {
           en: "Swiss Chard Pie",
           fr: "Tourte aux blettes"
         },
-        precio: 12.00,
+        precio: 15.00,
         imagen: "pastel_acelga.jpg"
       }
     ]
@@ -435,7 +435,7 @@ const MENU_DATA = {
           en: "Select avocado stuffed with a delicate mix of fresh seasonal vegetables and homemade mayonnaise.",
           fr: "Avocat sélectionné farci d'un délicat mélange de légumes frais de saison et de mayonnaise maison."
         },
-        precio: 21.00,
+        precio: 23.00,
         imagen: "avocado_relleno.jpg"
       },
       {
@@ -450,7 +450,7 @@ const MENU_DATA = {
           en: "Fresh and light individual combination of avocado slices, organic lettuce, and valley vegetables with our special house dressing.",
           fr: "Combinaison individuelle fraîche et légère de tranches d'avocat, de laitue biologique et de légumes de la vallée avec notre vinaigrette spéciale maison."
         },
-        precio: 12.00,
+        precio: 15.00,
         imagen: "ensalada_avocado.jpg"
       }
     ]
@@ -467,7 +467,7 @@ const MENU_DATA = {
           en: "Vegetable Omelet",
           fr: "Omelette aux légumes"
         },
-        precio: 18.00,
+        precio: 25.00,
         imagen: "tortilla_verduras.jpg"
       },
       {
@@ -477,7 +477,7 @@ const MENU_DATA = {
           en: "French Fries",
           fr: "Frites"
         },
-        precio: 14.00,
+        precio: 16.00,
         imagen: "papas_fritas.jpg"
       },
       {
@@ -487,7 +487,7 @@ const MENU_DATA = {
           en: "Guacamole",
           fr: "Guacamole"
         },
-        precio: 10.00,
+        precio: 12.00,
         imagen: "huacamole.jpg"
       },
       {
@@ -497,7 +497,7 @@ const MENU_DATA = {
           en: "Scrambled Eggs",
           fr: "Œufs brouillés"
         },
-        precio: 6.00,
+        precio: 8.00,
         imagen: "huevos_revueltos.jpg"
       },
       {
@@ -507,7 +507,7 @@ const MENU_DATA = {
           en: "Fried Banana",
           fr: "Banane frite"
         },
-        precio: 6.00,
+        precio: 8.00,
         imagen: "banana_frita.jpg"
       }
     ]
@@ -524,7 +524,7 @@ const MENU_DATA = {
           en: "Glass of red wine (dry)",
           fr: "Verre de vin rouge (sec)"
         },
-        precio: 16.00,
+        precio: 18.00,
         imagen: "vino_tinto_seco.jpg"
       },
       {
@@ -534,7 +534,7 @@ const MENU_DATA = {
           en: "Glass of red wine (semi-dry)",
           fr: "Verre de vin rouge (demi-sec)"
         },
-        precio: 12.00,
+        precio: 15.00,
         imagen: "vino_tinto_semiseco.jpg"
       },
       {
@@ -564,7 +564,7 @@ const MENU_DATA = {
           en: "Inka Kola 600 ml",
           fr: "Inka Kola 600 ml"
         },
-        precio: 5.00,
+        precio: 6.00,
         imagen: "inka_kola.jpg"
       },
       {
@@ -574,7 +574,7 @@ const MENU_DATA = {
           en: "Coca-Cola 600ml",
           fr: "Coca-Cola 600ml"
         },
-        precio: 5.00,
+        precio: 6.00,
         imagen: "coca_cola.jpg"
       },
       {
@@ -584,7 +584,7 @@ const MENU_DATA = {
           en: "Passion fruit juice",
           fr: "Jus de fruit de la passion"
         },
-        precio: 5.00,
+        precio: 6.00,
         imagen: "refresco_maracuya.jpg"
       },
       {
@@ -594,7 +594,7 @@ const MENU_DATA = {
           en: "Sancayo juice",
           fr: "Jus de sancayo"
         },
-        precio: 5.00,
+        precio: 6.00,
         imagen: "refresco_sancayo.jpg"
       }
     ]
@@ -621,7 +621,7 @@ const MENU_DATA = {
           en: "Passion fruit pie",
           fr: "Tarte au fruit de la passion"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "pie_maracuya.jpg"
       },
       {
@@ -631,7 +631,7 @@ const MENU_DATA = {
           en: "Blueberry pudding",
           fr: "Pouding aux myrtilles"
         },
-        precio: 12.00,
+        precio: 15.00,
         imagen: "budin_arandanos.jpg"
       },
       {
@@ -641,7 +641,7 @@ const MENU_DATA = {
           en: "Chocolate cake",
           fr: "Gâteau au chocolat"
         },
-        precio: 12.00,
+        precio: 15.00,
         imagen: "torta_chocolate.jpg"
       }
     ]
@@ -662,7 +662,7 @@ const MENU_DATA = {
           en: "Natural yogurt cup accompanied by a selection of fresh valley fruits and crunchy cereal.",
           fr: "Coupe de yaourt nature accompagnée d'une sélection de fruits frais de la vallée et de céréales croquantes."
         },
-        precio: 15.00,
+        precio: 18.00,
         imagen: "copa_yogurt_frutas_valle.jpg"
       },
       {
@@ -692,7 +692,7 @@ const MENU_DATA = {
           en: "Assortment of fresh seasonal fruits sweetened with house honey and accompanied by crunchy granola.",
           fr: "Assortiment de fruits frais de saison adouci avec du miel de la maison et accompagné de granola croquant."
         },
-        precio: 18.00,
+        precio: 20.00,
         imagen: "mix_frutas_temporada_granola.jpg"
       }
     ]
@@ -709,7 +709,7 @@ const MENU_DATA = {
           en: "Grilled chicken sandwich",
           fr: "Sandwich au poulet grillé"
         },
-        precio: 22.00,
+        precio: 25.00,
         imagen: "pollo_parrillero.jpg"
       },
       {
@@ -719,7 +719,7 @@ const MENU_DATA = {
           en: "Grilled beef tenderloin sandwich",
           fr: "Sandwich de filet de bœuf grillé"
         },
-        precio: 22.00,
+        precio: 25.00,
         imagen: "lomo_fino_res_parrillero.jpg"
       },
       {
@@ -729,7 +729,7 @@ const MENU_DATA = {
           en: "Sautéed alpaca loin sandwich",
           fr: "Sandwich de lomo saltado d'alpaga"
         },
-        precio: 22.00,
+        precio: 25.00,
         imagen: "lomo_saltado_alpaca_desayuno.jpg"
       },
       {
@@ -739,7 +739,7 @@ const MENU_DATA = {
           en: "Egg Sandwich",
           fr: "Sandwich aux œufs"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "huevo_sandwich.jpg"
       },
       {
@@ -749,7 +749,7 @@ const MENU_DATA = {
           en: "Avocado Sandwich",
           fr: "Sandwich à l'avocat"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "avocado_sandwich.jpg"
       },
       {
@@ -759,7 +759,7 @@ const MENU_DATA = {
           en: "Cheese Sandwich",
           fr: "Sandwich au fromage"
         },
-        precio: 8.00,
+        precio: 10.00,
         imagen: "queso_sandwich.jpg"
       },
       {
@@ -769,7 +769,7 @@ const MENU_DATA = {
           en: "Triple Sandwich",
           fr: "Sandwich Triple"
         },
-        precio: 18.00,
+        precio: 20.00,
         imagen: "sandwich_triple.jpg"
       }
     ]
@@ -790,7 +790,7 @@ const MENU_DATA = {
           en: "Eggs to taste on half toasted bread with local cheese, tomato, fine herbs, olive, and olive oil.",
           fr: "Œufs au choix sur moitié de pain grillé avec fromage local, tomate, fines herbes, olive et huile d'olive."
         },
-        precio: 20.00,
+        precio: 22.00,
         imagen: "pan_campesino.jpg"
       },
       {
@@ -805,7 +805,7 @@ const MENU_DATA = {
           en: "Traditional corn tamales stuffed with tender chicken and accompanied by fresh criolla sauce.",
           fr: "Tamales de maïs traditionnels farcis de poulet tendre et accompagnés de sauce criolla fraîche."
         },
-        precio: 15.00,
+        precio: 18.00,
         imagen: "tamales_pollo.jpg"
       }
     ]
@@ -821,7 +821,7 @@ const MENU_DATA = {
           en: "Chicken Empanada",
           fr: "Empanada au poulet"
         },
-        precio: 9.00,
+        precio: 10.00,
         imagen: "empanada_pollo.jpg"
       },
       {
@@ -831,7 +831,7 @@ const MENU_DATA = {
           en: "Alpaca Empanada",
           fr: "Empanada à l'alpaga"
         },
-        precio: 9.00,
+        precio: 10.00,
         imagen: "empanada_alpaca.jpg"
       },
       {
@@ -851,7 +851,7 @@ const MENU_DATA = {
           en: "Vegetarian Empanada",
           fr: "Empanada végétarienne"
         },
-        precio: 9.00,
+        precio: 10.00,
         imagen: "empanada_vegetariana.jpg"
       }
     ]
@@ -867,7 +867,7 @@ const MENU_DATA = {
           en: "Juices",
           fr: "Jus"
         },
-        precio: 10.00,
+        precio: 12.00,
         imagen: "jugos.jpg"
       },
       {
@@ -877,7 +877,7 @@ const MENU_DATA = {
           en: "Juices with Milk",
           fr: "Jus au lait"
         },
-        precio: 12.00,
+        precio: 15.00,
         imagen: "jugos_con_leche.jpg"
       },
       {
@@ -887,7 +887,7 @@ const MENU_DATA = {
           en: "Quinoa drink",
           fr: "Boisson de quinoa"
         },
-        precio: 14.00,
+        precio: 16.00,
         imagen: "quinua_saltadita.jpg"
       },
       {
@@ -927,7 +927,7 @@ const MENU_DATA = {
           en: "Hot Chocolate",
           fr: "Chocolat Chaud"
         },
-        precio: 14.00,
+        precio: 15.00,
         imagen: "chocolate_caliente.jpg"
       },
       {
